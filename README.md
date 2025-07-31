@@ -57,3 +57,16 @@ nav {
     justify-content:center;
     }
 ```
+
+## Check list
+- [x] home page
+- [x] about page
+- [ ] service page
+- [ ] help page
+
+## Link
+
+CSS framework [W3school](https://www.w3schools.com/)
+
+## Image dashboard
+![Dashboard](IMG_1878.jpeg)
